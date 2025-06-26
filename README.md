@@ -68,7 +68,7 @@ CREATE TABLE order_products (
 1. Clonar el repositorio:
 
 ```bash
-git clone <tu-repo-url>
+git clone https://github.com/PedroDiazBelleza/fractal-test-backend.git
 cd fractal-backend
 ```
 
@@ -94,7 +94,7 @@ Para correr el servidor en modo desarrollo:
 npm run dev
 ```
 
-El servidor correrá típicamente en http://localhost:3000 (o el puerto configurado).
+El servidor correrá típicamente en http://localhost:3001 (o el puerto configurado).
 ## Endpoints principales (ejemplos)
 
 ### Orders (Pedidos)
